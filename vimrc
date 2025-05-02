@@ -44,7 +44,7 @@ call plug#end()
 
 "}}}
 
-colorscheme oceanic_material
+colorscheme solarized8_low
 
 " MAPPINGS --------------------------------------------------------------- {{{
 
